@@ -1,0 +1,6 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "notice",                            "text": "通知（緑色）" },
+  { "value": "warning",                           "text": "注意（黄色）" },
+  { "value": "danger",                            "text": "警告（赤色）" }
+]

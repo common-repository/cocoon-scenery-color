@@ -1,0 +1,15 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "hiragino",                          "text": "ヒラギノ角ゴ, メイリオ" },
+  { "value": "meiryo",                            "text": "メイリオ, ヒラギノ角ゴ" },
+  { "value": "yu_gothic",                         "text": "游ゴシック体, ヒラギノ角ゴ" },
+  { "value": "ms_pgothic",                        "text": "ＭＳ Ｐゴシック, ヒラギノ角ゴ" },
+  { "value": "noto_sans_jp",                      "text": "Noto Sans JP（WEBフォント）" },
+  { "value": "noto_serif_jp",                     "text": "Noto Serif JP（WEBフォント）" },
+  { "value": "mplus_1p",                          "text": "Mplus 1p（WEBフォント）" },
+  { "value": "rounded_mplus_1c",                  "text": "Rounded Mplus 1c（WEBフォント）" },
+  { "value": "kosugi",                            "text": "小杉ゴシック（WEBフォント）" },
+  { "value": "kosugi_maru",                       "text": "小杉丸ゴシック（WEBフォント）" },
+  { "value": "sawarabi_gothic",                   "text": "さわらびゴシック（WEBフォント）" },
+  { "value": "sawarabi_mincho",                   "text": "さわらび明朝（WEBフォント）" }
+]

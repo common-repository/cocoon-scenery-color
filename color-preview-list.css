@@ -1,0 +1,77 @@
+/**
+* CSS Name: Cocoon Scenery Color CSS
+* Version: 1.3.5
+* Author: nshuuo36
+* Author URI: https://lacaraterra.site/
+*/
+
+table.color-preview-table th {
+    margin: 3px;
+    padding: 0;
+}
+table.color-preview-table td {
+    margin: 3px;
+    padding: 0;
+}
+table.color-preview-table td.title {
+    border-bottom-style: inset;
+    width: 300px;
+}
+div.inside strong, table.color-preview-table strong {
+    color: #ff0000;
+}
+table.color-preview-table td.colorbar {
+    width: 300px;
+}
+table.color-preview-table input.colorbar, select.select_option {
+    font-size: small;
+    margin-bottom: 3px;
+    margin-right: 0;
+    padding-left: 3px;
+    width: 300px;
+}
+table.color-preview-table input.colorPalette {
+    margin: 0;
+    border: 1;
+    padding: 0;
+    width: 300px;
+}
+table.color-preview-table button.colorbar {
+    display: block;
+    margin: 0 0 0 auto;
+}
+#textbox_ip_addresses {
+    width: 480px;
+}
+table.color-preview-table input.sampleColorPalette {
+    margin: 0;
+    border: 1;
+    padding: 0;
+    width: 100px;
+}
+table.color-preview-table td.novalue {
+    width: 90px;
+}
+table.color-preview-table td.sample_color input.sample_color {
+    margin-bottom: 0px;
+}
+table.color-preview-table p.sample_color_guide {
+    margin: 0;
+}
+table.color-preview-table td.sample_colors16 input.sample_colors16 {
+    margin-bottom: 4px;
+}
+span.fa.fa-picture-o.sample_color {
+    margin-left: 2px;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+table.color-preview-table td.copy_sample_color {
+    width: 45px;
+}
+label.label_margin_right {
+    margin-right: 5px;
+}
+table.cscp-form-table th {
+    color: inherit;
+}

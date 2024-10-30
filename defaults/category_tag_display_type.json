@@ -1,0 +1,8 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "two_rows",                          "text": "カテゴリー・タグ2列" },
+  { "value": "one_row",                           "text": "カテゴリー・タグ1列" },
+  { "value": "category_only",                     "text": "カテゴリーのみ" },
+  { "value": "tag_only",                          "text": "タグのみ" },
+  { "value": "none",                              "text": "カテゴリーもタグも表示しない" }
+]

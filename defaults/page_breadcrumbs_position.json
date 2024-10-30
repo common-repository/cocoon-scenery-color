@@ -1,0 +1,8 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "none",                              "text": "表示しない" },
+  { "value": "main_before",                       "text": "メインカラム手前" },
+  { "value": "main_top",                          "text": "メインカラムトップ" },
+  { "value": "main_bottom",                       "text": "メインカラムボトム（デフォルト）" },
+  { "value": "footer_before",                     "text": "フッター手前" }
+]

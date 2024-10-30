@@ -1,0 +1,6 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "title_top",                         "text": "タイトル上" },
+  { "value": "content_top",                       "text": "本文上" },
+  { "value": "content_bottom",                    "text": "本文下（デフォルト）" }
+]

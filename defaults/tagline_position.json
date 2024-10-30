@@ -1,0 +1,6 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "none",                              "text": "表示しない" },
+  { "value": "header_top",                        "text": "ヘッダートップ（デフォルト）" },
+  { "value": "header_bottom",                     "text": "ヘッダーボトム" }
+]

@@ -1,0 +1,11 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "center_logo",                       "text": "センターロゴ（デフォルト）" },
+  { "value": "center_logo_top_menu",              "text": "センターロゴ（トップメニュー）" },
+  { "value": "center_logo_slim",                  "text": "センターロゴ（スリムメニュー）" },
+  { "value": "center_logo_slim_top_menu",         "text": "センターロゴ（スリムトップメニュー）" },
+  { "value": "top_menu",                          "text": "トップメニュー" },
+  { "value": "top_menu_right",                    "text": "トップメニュー（右寄せ）" },
+  { "value": "top_menu_small",                    "text": "トップメニュー小" },
+  { "value": "top_menu_small_right",              "text": "トップメニュー小（右寄せ）" }
+]

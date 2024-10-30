@@ -1,0 +1,719 @@
+/** 札幌景観色スタイルシート **/
+/** 2020.07.01  created  inuta.takashi **/
+
+/** 文字色 **/
+
+/* 薄桜 うすざくら 1-A */
+.text-usuzakura {
+    color: #FFFCFB !important;
+}
+
+/* 雪灯 ゆきあかり 2-A */
+.text-yukiakari {
+    color: #FFFCF7 !important;
+}
+
+/* 乳白 ミルキースノー 3-A */
+.text-milkysnow {
+    color: #FEFCF7 !important;
+}
+
+/* 鈴蘭 すずらん 4-A */
+.text-suzuran {
+    color: #FAFCF7 !important;
+}
+
+/* 陽光白 シャイニングホワイト 5-A */
+.text-shiningwhite {
+    color: #EFF7F0 !important;
+}
+
+/* 氷白 アイスグリーン 6-A */
+.text-icegreen {
+    color: #EBF6F5 !important;
+}
+
+/* 氷柱 つらら 7-A */
+.text-tsurara {
+    color: #F7FBFE !important;
+}
+
+/* 雪花 せっか 8-A */
+.text-sekka {
+    color: #F9F9FB !important;
+}
+
+/* 水晶白 クリスタルホワイト 9-A */
+.text-crystalwhite {
+    color: #F9FCFE !important;
+}
+
+/* 新雪 しんせつ 10-A */
+.text-shinsetsu {
+    color: #F7F7F7 !important;
+}
+
+/* 綿毛 わたげ 1-B */
+.text-watage {
+    color: #F2EDEA !important;
+}
+
+/* 百合が原 ゆりがはら 2-B */
+.text-yurigahara {
+    color: #F6EEE7 !important;
+}
+
+/* 白樺 しらかば 3-B */
+.text-shirakaba {
+    color: #F0E9DC !important;
+}
+
+/* 蕗の薹 ふきのとう 4-B */
+.text-fukinotou {
+    color: #F0F6DC !important;
+}
+
+/* 氷雨 ひさめ 5-B */
+.text-hisame {
+    color: #DAE9E1 !important;
+}
+
+/* 雪まつり ゆきまつり 6-B */
+.text-yukimatsuri {
+    color: #CEE1E1 !important;
+}
+
+/* 雪虫 ゆきむし 7-B */
+.text-yukimushi {
+    color: #D3DAE8 !important;
+}
+
+/* リラ霞 りらかすみ 8-B */
+.text-rirakasumi {
+    color: #E3D8E1 !important;
+}
+
+/* 凍白 とうはく 9-B */
+.text-touhaku {
+    color: #D7E1E7 !important;
+}
+
+/* 霧氷 むひょう 10-B */
+.text-muhyou {
+    color: #E6E7E8 !important;
+}
+
+/* 白茶 しらちゃ 1-C */
+.text-shiracha {
+    color: #E5D0C5 !important;
+}
+
+/* 雪消水 ゆきげみず 2-C */
+.text-yukigemizu {
+    color: #E6D8C4 !important;
+}
+
+/* 札幌玉葱 さっぽろたまねぎ 3-C */
+.text-sapporotamanegi {
+    color: #E5DABD !important;
+}
+
+/* キャベツ きゃべつ 4-C */
+.text-kyabetsu {
+    color: #DBE7C5 !important;
+}
+
+/* 創成柳 そうせいやなぎ 5-C */
+.text-souseiyanagi {
+    color: #9DBDAE !important;
+}
+
+/* 樹氷 じゅひょう 6-C */
+.text-juhyou {
+    color: #80B5B7 !important;
+}
+
+/* 雪影 ゆきかげ 7-C */
+.text-yukikage {
+    color: #C0C5CE !important;
+}
+
+/* ライラック らいらっく 8-C */
+.text-lilac {
+    color: #C7B5B9 !important;
+}
+
+/* 薄氷 うすごおり 9-C */
+.text-usugoori {
+    color: #C3D2DA !important;
+}
+
+/* 銀鱗 ぎんりん 10-C */
+.text-ginrin {
+    color: #C5C8CA !important;
+}
+
+/* カフェオーレ かふぇおーれ 1-D */
+.text-cafeole {
+    color: #CCB8AF !important;
+}
+
+/* ベージュ べーじゅ 2-D */
+.text-beige {
+    color: #CEBFA9 !important;
+}
+
+/* 薄 すすき 3-D */
+.text-susuki {
+    color: #D7CDA5 !important;
+}
+
+/* 中の島 なかのしま 4-D */
+.text-nakanoshima {
+    color: #ABBF9B !important;
+}
+
+/* 楡 えるむ 5-D */
+.text-erumu {
+    color: #79A483 !important;
+}
+
+/* 山鳴らし やまならし 6-D */
+.text-yamanarashi {
+    color: #529396 !important;
+}
+
+/* 蝦夷延胡索 えぞえんごさく 7-D */
+.text-ezoengosaku {
+    color: #8FA5C7 !important;
+}
+
+/* 藤野 ふじの 8-D */
+.text-fujino {
+    color: #978385 !important;
+}
+
+/* 札幌軟石 さっぽろなんせき 9-D */
+.text-sapporonanseki {
+    color: #99AAB3 !important;
+}
+
+/* 吹雪 ぶりざーど 10-D */
+.text-blizzard {
+    color: #A4A4A5 !important;
+}
+
+/* ミルク金時 みるくきんとき 1-E */
+.text-mirukukintoki {
+    color: #B88B83 !important;
+}
+
+/* 蝦夷りす えぞりす 2-E */
+.text-ezorisu {
+    color: #B0906D !important;
+}
+
+/* 馬鈴薯 ばれいしょ 3-E */
+.text-bareisho {
+    color: #AE9A6C !important;
+}
+
+/* 羊ヶ丘 ひつじがおか 4-E */
+.text-hitsujigaoka {
+    color: #75A969 !important;
+}
+
+/* モエレ沼 もえれぬま 5-E */
+.text-moerenuma {
+    color: #468861 !important;
+}
+
+/* オーロラ おーろら 6-E */
+.text-aurora {
+    color: #198E8B !important;
+}
+
+/* ラベンダー らべんだー 7-E */
+.text-lavender {
+    color: #7A8DAB !important;
+}
+
+/* 雁金草 かりがねそう 8-E */
+.text-kariganesou {
+    color: #846C70 !important;
+}
+
+/* 郭公 かっこう 9-E */
+.text-kakkou {
+    color: #7A8A93 !important;
+}
+
+/* 蝦夷梟 えぞふくろう 10-E */
+.text-ezofukurou {
+    color: #898989 !important;
+}
+
+/* ペチカ ぺちか 1-F */
+.text-pechika {
+    color: #A40016 !important;
+}
+
+/* 蝦夷鹿 えぞしか 2-F */
+.text-ezoshika {
+    color: #95612E !important;
+}
+
+/* ビア茶 びあちゃ 3-F */
+.text-beercha {
+    color: #976B3E !important;
+}
+
+/* 藻岩山 もいわやま 4-F */
+.text-moiwayama {
+    color: #2E6A23 !important;
+}
+
+/* 三角山 さんかくやま 5-F */
+.text-sankakuyama {
+    color: #186A3A !important;
+}
+
+/* ポプラ ぽぷら 6-F */
+.text-popura {
+    color: #00684D !important;
+}
+
+/* 豊平川 とよひらがわ 7-F */
+.text-toyohiragawa {
+    color: #46628A !important;
+}
+
+/* 小豆 あずき 8-F */
+.text-azuki {
+    color: #6C2D4C !important;
+}
+
+/* 石切山 いしきりやま 9-F */
+.text-ishikiriyama {
+    color: #576770 !important;
+}
+
+/* 開拓使 かいたくし 10-F */
+.text-kaitakushi {
+    color: #585F64 !important;
+}
+
+/* 煉瓦 れんが 1-G */
+.text-renga {
+    color: #85272D !important;
+}
+
+/* 生チョコ なまちょこ 2-G */
+.text-namachoko {
+    color: #834F34 !important;
+}
+
+/* 団栗 どんぐり 3-G */
+.text-donguri {
+    color: #704810 !important;
+}
+
+/* 熊笹 くまざさ 4-G */
+.text-kumazasa {
+    color: #004E09 !important;
+}
+
+/* 芸術の森 げいじゅつのもり 5-G */
+.text-geijutsunomori {
+    color: #004A11 !important;
+}
+
+/* 蝦夷松 えぞまつ 6-G */
+.text-ezomatsu {
+    color: #004326 !important;
+}
+
+/* 藍の里 あいのさと 7-G */
+.text-ainosato {
+    color: #0F0035 !important;
+}
+
+/* 蝦夷紫 えぞむらさき 8-G */
+.text-ezomurasaki {
+    color: #4A1840 !important;
+}
+
+/* 月無夜 みっどないと 9-G */
+.text-midnight {
+    color: #000018 !important;
+}
+
+/* 墨烏 すみがらす 10-G */
+.text-sumigarasu {
+    color: #231815 !important;
+}
+
+/**********************/
+/***** 以下、追加 *****/
+/**********************/
+/** 境界色 **/
+/* 鈴蘭 すずらん 4-A */
+.bd-suzuran {
+    border-color: #FAFCF7 !important;
+}
+/**********************/
+/***** 以上、追加 *****/
+/**********************/
+
+
+/** 背景色 **/
+
+/* 薄桜 うすざくら 1-A */
+.bg-usuzakura {
+    background-color: #FFFCFB !important;
+}
+
+/* 雪灯 ゆきあかり 2-A */
+.bg-yukiakari {
+    background-color: #FFFCF7 !important;
+}
+
+/* 乳白 ミルキースノー 3-A */
+.bg-milkysnow {
+    background-color: #FEFCF7 !important;
+}
+
+/* 鈴蘭 すずらん 4-A */
+.bg-suzuran {
+    background-color: #FAFCF7 !important;
+}
+
+/* 陽光白 シャイニングホワイト 5-A */
+.bg-shiningwhite {
+    background-color: #EFF7F0 !important;
+}
+
+/* 氷白 アイスグリーン 6-A */
+.bg-icegreen {
+    background-color: #EBF6F5 !important;
+}
+
+/* 氷柱 つらら 7-A */
+.bg-tsurara {
+    background-color: #F7FBFE !important;
+}
+
+/* 雪花 せっか 8-A */
+.bg-sekka {
+    background-color: #F9F9FB !important;
+}
+
+/* 水晶白 クリスタルホワイト 9-A */
+.bg-crystalwhite {
+    background-color: #F9FCFE !important;
+}
+
+/* 新雪 しんせつ 10-A */
+.bg-shinsetsu {
+    background-color: #F7F7F7 !important;
+}
+
+/* 綿毛 わたげ 1-B */
+.bg-watage {
+    background-color: #F2EDEA !important;
+}
+
+/* 百合が原 ゆりがはら 2-B */
+.bg-yurigahara {
+    background-color: #F6EEE7 !important;
+}
+
+/* 白樺 しらかば 3-B */
+.bg-shirakaba {
+    background-color: #F0E9DC !important;
+}
+
+/* 蕗の薹 ふきのとう 4-B */
+.bg-fukinotou {
+    background-color: #F0F6DC !important;
+}
+
+/* 氷雨 ひさめ 5-B */
+.bg-hisame {
+    background-color: #DAE9E1 !important;
+}
+
+/* 雪まつり ゆきまつり 6-B */
+.bg-yukimatsuri {
+    background-color: #CEE1E1 !important;
+}
+
+/* 雪虫 ゆきむし 7-B */
+.bg-yukimushi {
+    background-color: #D3DAE8 !important;
+}
+
+/* リラ霞 りらかすみ 8-B */
+.bg-rirakasumi {
+    background-color: #E3D8E1 !important;
+}
+
+/* 凍白 とうはく 9-B */
+.bg-touhaku {
+    background-color: #D7E1E7 !important;
+}
+
+/* 霧氷 むひょう 10-B */
+.bg-muhyou {
+    background-color: #E6E7E8 !important;
+}
+
+/* 白茶 しらちゃ 1-C */
+.bg-shiracha {
+    background-color: #E5D0C5 !important;
+}
+
+/* 雪消水 ゆきげみず 2-C */
+.bg-yukigemizu {
+    background-color: #E6D8C4 !important;
+}
+
+/* 札幌玉葱 さっぽろたまねぎ 3-C */
+.bg-sapporotamanegi {
+    background-color: #E5DABD !important;
+}
+
+/* キャベツ きゃべつ 4-C */
+.bg-kyabetsu {
+    background-color: #DBE7C5 !important;
+}
+
+/* 創成柳 そうせいやなぎ 5-C */
+.bg-souseiyanagi {
+    background-color: #9DBDAE !important;
+}
+
+/* 樹氷 じゅひょう 6-C */
+.bg-juhyou {
+    background-color: #80B5B7 !important;
+}
+
+/* 雪影 ゆきかげ 7-C */
+.bg-yukikage {
+    background-color: #C0C5CE !important;
+}
+
+/* ライラック らいらっく 8-C */
+.bg-lilac {
+    background-color: #C7B5B9 !important;
+}
+
+/* 薄氷 うすごおり 9-C */
+.bg-usugoori {
+    background-color: #C3D2DA !important;
+}
+
+/* 銀鱗 ぎんりん 10-C */
+.bg-ginrin {
+    background-color: #C5C8CA !important;
+}
+
+/* カフェオーレ かふぇおーれ 1-D */
+.bg-cafeole {
+    background-color: #CCB8AF !important;
+}
+
+/* ベージュ べーじゅ 2-D */
+.bg-beige {
+    background-color: #CEBFA9 !important;
+}
+
+/* 薄 すすき 3-D */
+.bg-susuki {
+    background-color: #D7CDA5 !important;
+}
+
+/* 中の島 なかのしま 4-D */
+.bg-nakanoshima {
+    background-color: #ABBF9B !important;
+}
+
+/* 楡 えるむ 5-D */
+.bg-erumu {
+    background-color: #79A483 !important;
+}
+
+/* 山鳴らし やまならし 6-D */
+.bg-yamanarashi {
+    background-color: #529396 !important;
+}
+
+/* 蝦夷延胡索 えぞえんごさく 7-D */
+.bg-ezoengosaku {
+    background-color: #8FA5C7 !important;
+}
+
+/* 藤野 ふじの 8-D */
+.bg-fujino {
+    background-color: #978385 !important;
+}
+
+/* 札幌軟石 さっぽろなんせき 9-D */
+.bg-sapporonanseki {
+    background-color: #99AAB3 !important;
+}
+
+/* 吹雪 ぶりざーど 10-D */
+.bg-blizzard {
+    background-color: #A4A4A5 !important;
+}
+
+/* ミルク金時 みるくきんとき 1-E */
+.bg-mirukukintoki {
+    background-color: #B88B83 !important;
+}
+
+/* 蝦夷りす えぞりす 2-E */
+.bg-ezorisu {
+    background-color: #B0906D !important;
+}
+
+/* 馬鈴薯 ばれいしょ 3-E */
+.bg-bareisho {
+    background-color: #AE9A6C !important;
+}
+
+/* 羊ヶ丘 ひつじがおか 4-E */
+.bg-hitsujigaoka {
+    background-color: #75A969 !important;
+}
+
+/* モエレ沼 もえれぬま 5-E */
+.bg-moerenuma {
+    background-color: #468861 !important;
+}
+
+/* オーロラ おーろら 6-E */
+.bg-aurora {
+    background-color: #198E8B !important;
+}
+
+/* ラベンダー らべんだー 7-E */
+.bg-lavender {
+    background-color: #7A8DAB !important;
+}
+
+/* 雁金草 かりがねそう 8-E */
+.bg-kariganesou {
+    background-color: #846C70 !important;
+}
+
+/* 郭公 かっこう 9-E */
+.bg-kakkou {
+    background-color: #7A8A93 !important;
+}
+
+/* 蝦夷梟 えぞふくろう 10-E */
+.bg-ezofukurou {
+    background-color: #898989 !important;
+}
+
+/* ペチカ ぺちか 1-F */
+.bg-pechika {
+    background-color: #A40016 !important;
+}
+
+/* 蝦夷鹿 えぞしか 2-F */
+.bg-ezoshika {
+    background-color: #95612E !important;
+}
+
+/* ビア茶 びあちゃ 3-F */
+.bg-beercha {
+    background-color: #976B3E !important;
+}
+
+/* 藻岩山 もいわやま 4-F */
+.bg-moiwayama {
+    background-color: #2E6A23 !important;
+}
+
+/* 三角山 さんかくやま 5-F */
+.bg-sankakuyama {
+    background-color: #186A3A !important;
+}
+
+/* ポプラ ぽぷら 6-F */
+.bg-popura {
+    background-color: #00684D !important;
+}
+
+/* 豊平川 とよひらがわ 7-F */
+.bg-toyohiragawa {
+    background-color: #46628A !important;
+}
+
+/* 小豆 あずき 8-F */
+.bg-azuki {
+    background-color: #6C2D4C !important;
+}
+
+/* 石切山 いしきりやま 9-F */
+.bg-ishikiriyama {
+    background-color: #576770 !important;
+}
+
+/* 開拓使 かいたくし 10-F */
+.bg-kaitakushi {
+    background-color: #585F64 !important;
+}
+
+/* 煉瓦 れんが 1-G */
+.bg-renga {
+    background-color: #85272D !important;
+}
+
+/* 生チョコ なまちょこ 2-G */
+.bg-namachoko {
+    background-color: #834F34 !important;
+}
+
+/* 団栗 どんぐり 3-G */
+.bg-donguri {
+    background-color: #704810 !important;
+}
+
+/* 熊笹 くまざさ 4-G */
+.bg-kumazasa {
+    background-color: #004E09 !important;
+}
+
+/* 芸術の森 げいじゅつのもり 5-G */
+.bg-geijutsunomori {
+    background-color: #004A11 !important;
+}
+
+/* 蝦夷松 えぞまつ 6-G */
+.bg-ezomatsu {
+    background-color: #004326 !important;
+}
+
+/* 藍の里 あいのさと 7-G */
+.bg-ainosato {
+    background-color: #0F0035 !important;
+}
+
+/* 蝦夷紫 えぞむらさき 8-G */
+.bg-ezomurasaki {
+    background-color: #4A1840 !important;
+}
+
+/* 月無夜 みっどないと 9-G */
+.bg-midnight {
+    background-color: #000018 !important;
+}
+
+/* 墨烏 すみがらす 10-G */
+.bg-sumigarasu {
+    background-color: #231815 !important;
+}

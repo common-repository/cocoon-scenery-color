@@ -1,0 +1,23 @@
+{
+  "site_key_color": "#009944",
+  "site_key_text_color": "#ffffff",
+  "site_font_family": "noto_serif_jp",
+  "site_font_weight": "400",
+  "site_text_color": "#000000",
+  "site_background_color": "#ffffff",
+  "site_link_color": "#009944",
+  "header_container_background_color": "#ffffff",
+  "header_container_text_color": "#009944",
+  "header_background_color": "#ffffff",
+  "header_text_color": "#009944",
+  "global_navi_background_color": "#ffffff",
+  "global_navi_text_color": "#000000",
+  "notice_area_background_color": "#009944",
+  "notice_area_text_color": "#ffffff",
+  "appeal_area_background_color": "#4d4d4d",
+  "appeal_area_button_background_color": "#009944",
+  "footer_background_color": "#1a1a1a",
+  "footer_text_color": "#ffffff",
+  "go_to_top_background_color": "#009944",
+  "go_to_top_text_color": "#ffffff"
+}

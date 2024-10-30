@@ -1,0 +1,7 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "entry_card",                        "text": "エントリーカード（デフォルト）" },
+  { "value": "mini_card",                         "text": "ミニカード（推奨表示数：偶数）" },
+  { "value": "vertical_card_3",                   "text": "縦型カード3列（推奨表示数：6, 12, 18...）" },
+  { "value": "vertical_card_4",                   "text": "縦型カード4列（推奨表示数：4, 8, 12...）" }
+]

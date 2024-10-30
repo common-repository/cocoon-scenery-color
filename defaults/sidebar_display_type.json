@@ -1,0 +1,10 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "display_all",                       "text": "全てのページで表示" },
+  { "value": "no_display_all",                    "text": "全てのページで非表示" },
+  { "value": "no_display_front_page",             "text": "フロントページで非表示" },
+  { "value": "no_display_index_pages",            "text": "インデックスページで非表示" },
+  { "value": "no_display_pages",                  "text": "固定ページで非表示" },
+  { "value": "no_display_singles",                "text": "投稿ページで非表示" },
+  { "value": "no_display_404_pages",              "text": "404ページで非表示" }
+]

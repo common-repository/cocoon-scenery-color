@@ -1,0 +1,15 @@
+[
+  { "value": "",                                  "text": "" },
+  { "value": "none",                              "text": "表示しない" },
+  { "value": "all_page",                          "text": "全ページで表示" },
+  { "value": "front_page_only",                   "text": "フロントページのみで表示" },
+  { "value": "not_singular",                      "text": "投稿・固定ページ以外で表示" },
+  { "value": "singular_only",                     "text": "投稿・固定ページのみで表示" },
+  { "value": "single_only",                       "text": "投稿ページのみで表示" },
+  { "value": "page_only",                         "text": "固定ページのみで表示" }
+]
+
+
+
+
+

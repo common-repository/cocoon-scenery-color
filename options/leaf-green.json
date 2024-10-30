@@ -1,0 +1,23 @@
+{
+  "site_key_color": "#91ba58",
+  "site_key_text_color": "#ffffff",
+  "site_font_family": "yu_gothic",
+  "site_font_weight": "500",
+  "site_text_color": "#222d12",
+  "site_background_color": "#ffffff",
+  "site_link_color": "#5791ba",
+  "header_background_color": "#91ba58",
+  "header_text_color": "#ffffff",
+  "global_navi_background_color": "#ffffff",
+  "global_navi_text_color": "#91ba58",
+  "notice_area_background_color": "#bab257",
+  "notice_area_text_color": "#ffffff",
+  "appeal_area_background_color": "#b2baa8",
+  "appeal_area_button_background_color": "#91ba58",
+  "footer_background_color": "#bab257",
+  "footer_text_color": "#ffffff",
+  "go_to_top_background_color": "#91ba58",
+  "go_to_top_text_color": "#ffffff",
+  "block_editor_extended_palette_color_a": "#bab257",
+  "block_editor_extended_palette_color_b": ""
+}
